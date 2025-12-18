@@ -1,6 +1,7 @@
 ### Hi there!
 My name is Ethan Anthony and I am a 3rd year Computer Science student at Northeastern University. My areas of study are software development, machine learning, and general AI.
 
+Add me on linkedIn [here](https://www.linkedin.com/in/ethanjackanthony/)
 <!--
 **Ethan-Anthony/Ethan-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
