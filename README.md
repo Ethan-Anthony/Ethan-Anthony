@@ -1,5 +1,5 @@
 ### Hi there!
-My name is Ethan Anthony and I am a 3rd year Computer Science student at Northeastern University. My areas of study are software development, machine learning, and general AI.
+My name is Ethan Anthony and I am a 4th year Computer Science student at Northeastern University. My areas of study are software development, machine learning, and general AI.
 
 Connect with me on linkedIn [here](https://www.linkedin.com/in/ethanjackanthony/)!
 <!--
