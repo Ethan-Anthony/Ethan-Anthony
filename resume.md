@@ -1,3 +1,0 @@
-My name is Ethan Anthony...
-I am a first year at Northeastern University studying computer science
-My graduation is expected to be 2027
